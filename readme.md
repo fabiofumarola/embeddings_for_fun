@@ -1,4 +1,4 @@
-how do I embed a sequence of words? From context-free to contextual embeddings
+How do I embed a sequence of words? From context-free to contextual embeddings
 --------------------------
 
 ## Abstract ENG
