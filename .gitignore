@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+codelab/2_regression_solution.ipynb
+dataset/dogs-vs-cats.zip
+dataset/dogs-vs-cats/
+utils_notebooks/dataset_api.ipynb
+dataset/processed_dogs_vs_cats/
+dataset/glove.6B.zip
+dataset/glove.6B/
+dataset/meta.tsv
+dataset/vecs.tsv
+*.h5
+examples/training_checkpoints/
+logs
