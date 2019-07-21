@@ -10,7 +10,7 @@ The goal of this talk is answering to a simple question in the field of Natural 
 Il goal di questo task è porre le basi per rispondere ad una semplice domanda nel campo del "Natural Language Processing" ossia, “Come *embeddare* in maniera efficace una sequenza di parole?". Per rispondere a questa domanda analizzeremo la letteratura di riferimento nel campo del *Word Representations in Vector Space*. Partendo da approcci classici basati su *Distributional Semantic", introdurremo modelli *context-free*, come Word2Vec, FastText e GloVE, il cui obiettivo è generare una *word embedding* per ogni parola nel vocabolario di riferimento (dove per esempio la parola *bank* avrà una rappresentazione simile a *bank deposit* e *river bank*). Infine, ci concentreremo sui "contextual models", come ELMo, BERT, ULMFiT, OpenAI transformer e XLNet, che sono in grado di generare una rappresentazione di una parola basata sull'ordine in cui sono osservate le altre parole/sequenza di caratteri nella frase osservata. Per ognuno degli approcci analizzeremo pro, contro e fornire degli esempi di task in cui applicarli
 
 
-- [slides](./embeddings_for_fun.pdf): if you want the ppt version just drop me a message :)
+- [slides](./embeddings_for_fun): if you want the ppt version just drop me a message :)
 
 ## Setup
 
